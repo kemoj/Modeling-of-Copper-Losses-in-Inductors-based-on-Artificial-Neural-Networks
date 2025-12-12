@@ -1,4 +1,4 @@
-**Copper Loss Prediction Using Machine Learning**
+**Modeling-of-Copper-Losses-in-Inductors-based-on-Artificial-Intelligence-Techniques**
 
 <img width="465" height="252" alt="image" src="https://github.com/user-attachments/assets/8269b051-9571-4564-aba8-70b17d82aad8" />
 
